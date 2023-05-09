@@ -1,6 +1,6 @@
 # 29/04 Gpet4 about website portfolio
 
-1. Define goals: create a community, get known by industry.
+1. Define goals: create a community, get hired.
 2. Gather content (I have no one yet)
 3. Website structure:
 - Home

@@ -1,5 +1,10 @@
 # 29/04
 
+## Screenshot
+
+- win + shift + s
+
+
 ## Git & Git Hub branch commands
 
 - git checkout -b branch-name

@@ -2,4 +2,6 @@
 
 ## Objectives
 
+- Read the progress.
+
 ## Achievements

@@ -1,3 +1,17 @@
+# 08/05
+
+## Document and website structure
+[Link text](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
+
+- Basic sections for a webpage
+.header: h1
+.navbar: navbar 
+.main content: main (it has subsectionas represented by article, section, div)
+.sidebar: aside, often placed inside main (well use in main webpage only)
+.footer: footer
+
+
+
 # 29/04
 
 ## 20+ Mind-Blowing Instagram Stats and Facts
@@ -24,7 +38,7 @@
 .It takes 2 sec to loose clients attention. So be impressive at first sight.
 
 - About you
-.Show to the potential clients who is behind the work. Name, picture, tell a story about your personal & professional experience, eductation, projects you loved to do, awards. This page show the skills and passions.
+.Show to the potential clients who is behind the work. Name, picture, tell a story about your personal & professional experience, education, projects you loved to do, awards. This page show the skills and passions.
 
 - Case studies
 .Story of each project I made from start to finish. Show photos, screenshots and notes. Include purpose of the project, objective, approach (how do I accomplished), duration, my role and final product.
