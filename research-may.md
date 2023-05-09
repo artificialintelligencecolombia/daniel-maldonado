@@ -1,3 +1,47 @@
+# 09/05
+
+## How to Create a Portfolio Website Using HTML, CSS, JavaScript, and Bootstrap 5 / Add a hero header
+[Link text](https://www.freecodecamp.org/news/how-to-create-a-portfolio-website-using-html-css-javascript-and-bootstrap/)
+
+- According to the font, this is a good example of a header for a portfolio website.
+
+```<section class="bgimage" id="home">
+        <div class="container-fluid">
+            <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 hero-text">
+                <h2 class="hero_title">Hi, it's me Brad</h2>
+                <p class="hero_desc">I am a professional freelancer in New York City</p>
+            </div>
+            </div>
+        </div>
+    </section>
+```
+
+```/* hero background image */
+.bgimage {
+    height:100vh;
+    background: url('images/heroImage.jpeg');
+    background-size:cover;
+    position:relative;
+}
+/* text css above hero image*/
+.hero_title {
+    font-size: 4.5rem;
+}
+.hero_desc {
+    font-size: 2rem;
+}
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+```
+
+
 # 08/05
 
 ## Document and website structure
@@ -7,13 +51,13 @@
 .header: h1
 .navbar: navbar 
 .main content: main (it has subsectionas represented by article, section, div)
-.sidebar: aside, often placed inside main (well use in main webpage only)
+.sidebar: aside, often placed inside main (we'll use aside in main webpage only)
 .footer: footer
 
 - Html elements in more detailed description
 
 .main is different from page to page.It shouldnt be nested within other elements.
-.article: nested content related to itself and need no relationshipwith
+.article: nested content related to itself and need no relationship with
 the rest of the pase.
 .section is for grouping articles.
 .aside: not main content info but provides additional information (could contain links)

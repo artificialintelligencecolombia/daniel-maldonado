@@ -3,7 +3,8 @@
 ## HTML basic structure
 
 - The proper way to create the webpage elements is by using semantic 
-tags for the understanding of the website from the search engine.
+tags for the understanding of the website from the search engine. This means
+to use, for example <header></header> instead of <div></div>
 
 
 # 08/05
@@ -50,5 +51,5 @@ and remote branches
 ## Most frequently used markdowns
 
 - #, ##, ###
-- Inline code: `code` 
+- Inline code: ```code```
 - [Link text](https://example.com)
