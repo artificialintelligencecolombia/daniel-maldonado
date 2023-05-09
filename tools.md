@@ -1,3 +1,11 @@
+# 09/05
+
+## HTML basic structure
+
+- The proper way to create the webpage elements is by using semantic 
+tags for the understanding of the website from the search engine.
+
+
 # 08/05
 
 ## List & add remote repositories
