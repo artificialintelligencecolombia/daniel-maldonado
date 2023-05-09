@@ -1,3 +1,15 @@
+# 08/05
+
+## List & add remote repositories
+
+- git remote -v
+.list the remote repositories
+
+-git remote add improvise "repoURL"
+.add the  
+
+
+
 # 29/04
 
 ## Screenshot
