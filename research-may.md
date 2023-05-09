@@ -10,6 +10,15 @@
 .sidebar: aside, often placed inside main (well use in main webpage only)
 .footer: footer
 
+- Html elements in more detailed description
+
+.main is different from page to page.It shouldnt be nested within other elements.
+.article: nested content related to itself and need no relationshipwith
+the rest of the pase.
+.section is for grouping articles.
+.aside: not main content info but provides additional information (could contain links)
+.header
+.nav: contains the navigation functionality through the webpages.
 
 
 # 29/04
